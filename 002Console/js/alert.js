@@ -1,4 +1,4 @@
-		/*function woDeTaoLu() {
+		function woDeTaoLu() {
 			alert("taolu1=====你想看看啥子！");
 			alert("taolu2=====我就是不给你看！");
 			alert("taolu3=====那你还想看不！");	
@@ -15,6 +15,6 @@
 		alert("果然没有奇迹");
 		alert("我们就这样放弃吗？");
 		
-		woDeTaoLu();*/
+		woDeTaoLu();
 		
 		alert("2====是不是不想看啦,88！");
